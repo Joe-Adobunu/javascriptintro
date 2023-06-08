@@ -8,4 +8,3 @@ SCHOOL = "Altschool"
 console.log(age);
 console.log(number);
 console.log(SCHOOL);
-fffini
